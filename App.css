@@ -1,0 +1,15 @@
+.app {
+  background-color: black;
+  font-family: 'Courier New';
+}
+
+
+
+.todo {
+  padding: 13px;
+  background-color: yellow;
+  align-items: center;
+  display: flex;
+  font-size: 15px;
+  justify-content: space-between;
+}
